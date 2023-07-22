@@ -1,0 +1,16 @@
+{
+    "name": "windowsonbash",
+    "version": "1.0.1",
+    "description": "Windows support bash commands",
+    "bin": {
+        "ls": "./com/ls.js",
+        "rm": "./com/rm.js"
+    },
+    "prefer-global": "true",
+    "author": "https://github.com/DeveloperKubilay",
+    "license": "MIT",
+    "dependencies": {
+        "ansi-colors": "^4.1.3",
+        "rmdir": "^1.2.0"
+    }
+}

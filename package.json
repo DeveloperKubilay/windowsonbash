@@ -1,10 +1,11 @@
 {
     "name": "windowsonbash",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Windows support bash commands",
     "bin": {
         "ls": "./com/ls.js",
-        "rm": "./com/rm.js"
+        "rm": "./com/rm.js",
+        "clear":"./com/clear.js"
     },
     "prefer-global": "true",
     "author": "https://github.com/DeveloperKubilay",

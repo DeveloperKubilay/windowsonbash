@@ -3,3 +3,4 @@
 ## This module comes with these;
 ### ls
 ### rm -rf
+### clear

@@ -1,11 +1,25 @@
 {
     "name": "windowsonbash",
-    "version": "1.0.2",
-    "description": "Windows support bash commands",
+    "version": "1.0.3",
+    "description": "Linux terminal experience reimagined in Node.js, built for Windows only.",
     "bin": {
         "ls": "./com/ls.js",
         "rm": "./com/rm.js",
-        "clear":"./com/clear.js"
+        "clear": "./com/clear.js",
+        "cat": "./com/cat.js",
+        "free": "./com/free.js",
+        "htop": "./com/htop.js",
+        "ifconfig": "./com/ifconfig.js",
+        "lscpu": "./com/lscpu.js",
+        "mkdir": "./com/mkdir.js",
+        "nano": "./com/nano.js",
+        "neofetch": "./com/neofetch.js",
+        "pwd": "./com/pwd.js",
+        "sleep": "./com/sleep.js",
+        "touch": "./com/touch.js",
+        "uptime": "./com/uptime.js",
+        "wget": "./com/wget.js",
+        "which": "./com/which.js"
     },
     "prefer-global": "true",
     "author": "https://github.com/DeveloperKubilay",

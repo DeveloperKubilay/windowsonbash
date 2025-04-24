@@ -6,6 +6,8 @@ Ever dreamed of running your favorite Linux terminal commands inside **Windows**
 It simulates iconic Linux CLI commands **natively in Windows**, through pure Node.js.  
 No WSL. No virtualization. Just vibes. ⚡
 
+![Demo](https://i.imgur.com/nsWlzn8.png)
+
 ---
 
 ## 🚨 Warning!

@@ -1,6 +1,6 @@
 {
     "name": "windowsonbash",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "description": "Linux terminal experience reimagined in Node.js, built for Windows only.",
     "bin": {
         "ls": "./com/ls.js",
@@ -21,6 +21,23 @@
         "wget": "./com/wget.js",
         "which": "./com/which.js"
     },
+    "keywords": [
+        "windows",
+        "linux",
+        "bash",
+        "terminal",
+        "cli",
+        "command-line",
+        "shell",
+        "unix",
+        "commands",
+        "filesystem",
+        "system-monitoring",
+        "windows-terminal",
+        "node-cli",
+        "linux-commands",
+        "utilities"
+    ],
     "prefer-global": "true",
     "author": "https://github.com/DeveloperKubilay",
     "license": "MIT",

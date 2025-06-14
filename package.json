@@ -1,6 +1,6 @@
 {
     "name": "windowsonbash",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "description": "Linux terminal experience reimagined in Node.js, built for Windows only.",
     "bin": {
         "ls": "./com/ls.js",
